@@ -25,5 +25,10 @@
   "keywords": [],
   "author": "ajay",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "resolutions": {
+  "package-a": "2.0.0",
+  "package-b": "5.0.0",
+  "package-c": "1.5.2"
+}
 }
